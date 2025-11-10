@@ -1,0 +1,1 @@
+https://aistudio.google.com/live?_gl=1*od4zej*_up*MQ..&gclid=CjwKCAiAlMHIBhAcEiwAZhZBUsUkfQrJs453wPn4kXbsMGg4vlK7Bi9CsiWVnMZIDWl7mpaohw7slhoCjYMQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAACn9t65KgptJQJWG8z8FnTRYDBS-Q&model=gemini-2.5-flash-native-audio-preview-09-2025
